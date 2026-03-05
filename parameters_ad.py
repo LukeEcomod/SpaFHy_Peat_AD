@@ -34,7 +34,7 @@ def parameters(folder=''):
                     ['parameters_lai_decid_max', 'leaf area index of decidious trees [m2 m-2]'],
                     # ['parameters_hc', 'canopy height [m]'],
                     ['parameters_cf', 'canopy closure [-]'],
-                    # ['parameters_soil_id', 'soil class index'],
+                    ['parameters_soilclass', 'soil class index'],
                     ['parameters_ditch_depth', 'ditch depth [m]'],
                     ['parameters_ditch_spacing', 'ditch spacing [m]'],
                     ['parameters_lat', 'latitude [deg]'],
