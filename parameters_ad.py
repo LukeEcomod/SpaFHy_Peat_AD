@@ -32,7 +32,7 @@ def parameters(folder=''):
             'variables':[ # list of output variables (rows can be commented out if not all variables are of interest)
                     ['parameters_lai_conif', 'leaf area index of conifers [m2 m-2]'],
                     ['parameters_lai_decid_max', 'leaf area index of decidious trees [m2 m-2]'],
-                    # ['parameters_hc', 'canopy height [m]'],
+                    ['parameters_hc', 'canopy height [m]'],
                     ['parameters_cf', 'canopy closure [-]'],
                     ['parameters_soilclass', 'soil class index'],
                     ['parameters_ditch_depth', 'ditch depth [m]'],
